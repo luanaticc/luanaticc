@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-`C++` `Rust` `Python` `x64` `C#` `TypeScript` `JavaScript` `Java` `
+`C++` `Rust` `Python` `x64` `C#` `TypeScript` `JavaScript` `Java`
 
 <br/>
 
